@@ -11,9 +11,11 @@ using labeled data (**données étiquetées**).
 
 ## Training Data (Données d’apprentissage)
 - Dataset:
+
 $$
 X = {(x_i, y_i) | i = 1..N}
 $$
+
 - $x_i$: feature vector (**vecteur de caractéristiques**)
 - $y_i$: class label (**étiquette de classe**)
 - $Y$: discrete label set (**ensemble discret**)
